@@ -1,14 +1,14 @@
 😁 | Witajcie na moim profilu!
 <p>📃 | O mnie:</p>
 <p>Sooon</p>
-<p>💻 | Pracuję na:</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>JS</p>
-<p>❗ | Czasami również w:</p>
-<p>Lua</p>
-<p>Phyton</p>
-<p>C++</p>
+<p>💻 | Pracuję na:
+HTML
+CSS<
+JS</p>
+<p>❗ | Czasami również w:
+Lua
+Phyton
+C++</p>
 <!--
 **korpens1/korpens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
