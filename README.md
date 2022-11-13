@@ -1,9 +1,9 @@
 😁 | Witajcie na moim profilu!
 <p>📃 | O mnie:</p>
-<p>Sooon</p>
+<p>Soon</p>
 <p>💻 | Pracuję na:
 HTML
-CSS<
+CSS
 JS</p>
 <p>❔ | Czasami również w:
 Lua
