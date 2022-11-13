@@ -5,7 +5,7 @@
 HTML
 CSS
 JS</p>
-<p>❔ | Czasami również w:
+<p>❔ | Czasami też:
 Lua
 Phyton
 C++</p>
