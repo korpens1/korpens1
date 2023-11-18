@@ -1,4 +1,4 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adam
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Adam.
 ====================================================================================================================================
 
 Web Developer | Script Developer | Game Hosting Technician
@@ -14,6 +14,7 @@ Web Developer | Script Developer | Game Hosting Technician
 * ✉️  Contact: [korpens.yt@gmail.com](mailto:korpens.yt@gmail.com)
 * 📞  Discord: korpens
 * 🎶  I love listening to music
+* 🐕  I like animals
 * 🤝  I'm open to collaborating on intersting projects
 
 
