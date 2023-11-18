@@ -35,21 +35,21 @@
 ### Socials
 
 
-<a href="https://www.github.com/korpens1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCLvxS06h9HKl475rvZ5xq5g" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="32" height="32" /></a> 
+<a href="https://www.github.com/korpens1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCLvxS06h9HKl475rvZ5xq5g" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="32" height="64" /></a> 
 
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kapicaoskar"><img src="https://github-readme-stats.vercel.app/api?username=kapicaoskar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kapicaoskar's GitHub stats" /></a>
+<a href="http://www.github.com/korpens1"><img src="https://github-readme-stats.vercel.app/api?username=korpens1&show_icons=true&hide=&count_private=true&title_color=ffa000&text_color=ffffff&icon_color=0891b2&bg_color=1c1c1c&hide_border=true&show_icons=true" alt="korpens1's GitHub stats" /></a>
 
 
-<a href="https://github.com/kapicaoskar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapicaoskar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/korpens1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korpens1&langs_count=10&title_color=ffa000&text_color=ffffff&icon_color=0891b2&bg_color=1c1c1c&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
 
-<a href="https://www.buymeacoffee.com/kapicaoskar0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/korpens"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--
 **korpens1/korpens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
