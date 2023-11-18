@@ -35,7 +35,7 @@
 ### Socials
 
 
-<a href="https://www.github.com/korpens1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCLvxS06h9HKl475rvZ5xq5g" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="64" height="32" /></a> 
+<a href="https://www.github.com/korpens1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCLvxS06h9HKl475rvZ5xq5g" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="43" height="32" /></a> <a href="https://www.twitch.tv/korpens1" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/968/223/png-transparent-logo-twitch-logos-brands-icon-thumbnail.png" width="32" height="32" /></a
 
 
 
