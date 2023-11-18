@@ -1,14 +1,18 @@
 😁 | Witajcie na moim profilu!
 <p>📃 | O mnie:</p>
 <p>Soon</p>
-<p>💻 | Pracuję na:
+<p>💻 | Specyfikacja:
 HTML
 CSS
-JS</p>
-<p>❔ | Czasami też:
+JS
+Bootstrap
 Lua
+PHP
+</p>
+<p>❔ | Uczę się:
 Phyton
-C++</p>
+C++
+JAVA</p>
 <!--
 **korpens1/korpens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
