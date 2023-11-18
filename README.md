@@ -7,12 +7,14 @@ Web Developer | Script Developer | Game Hosting Technician
 ### About Me
 
 * <a href="https://hostyard.eu/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1140680431184904242/1141109027695235153/favicon.png" width="20" height="20" alt="Hostyard" /></a> Technical Support on [HostYard.eu](https://hostyard.eu/) | Game Hosting
-* 🌍  I'm from Poland
-* 🖥️  My portfolio at [korpens.kezrp.pl](https://korpens.kezrp.pl/portfolio)
-* ✉️  Contact me at [korpens.yt@gmail.com](mailto:korpens.yt@gmail.com)
-* 🧠  I'm thinking about learning Svelte
+* 🌍  Country: Poland
+* 🌇  City: Rzeszów
+* 🎑  Name: Adam
+* 🖥️  Portfolio: [korpens.kezrp.pl](https://korpens.kezrp.pl/portfolio)
+* ✉️  Contact: [korpens.yt@gmail.com](mailto:korpens.yt@gmail.com)
+* 📞  Discord: korpens
+* 🎶  I love listening to music
 * 🤝  I'm open to collaborating on intersting projects
-* ⚡  I love good music and reverse engineering
 
 
 ### Skills
