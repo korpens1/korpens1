@@ -17,7 +17,7 @@ Web Developer | Script Developer | Game Hosting Technician
 * 🐕  I like animals
 * 🤝  I'm open to collaborating on intersting projects
 
-### Skills
+### Discord
 <p align="left"></p>
 <!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
