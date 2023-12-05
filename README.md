@@ -17,6 +17,11 @@ Web Developer | Script Developer | Game Hosting Technician
 * 🐕  I like animals
 * 🤝  I'm open to collaborating on intersting projects
 
+### Skills
+<p align="left"></p>
+<!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/886354630731255848)](https://discord.com/users/886354630731255848)
 
 ### Skills
 
