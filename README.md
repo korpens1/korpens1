@@ -23,6 +23,10 @@ Web Developer | Script Developer | Game Hosting Technician
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/886354630731255848)](https://discord.com/users/886354630731255848)
 
+### Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38tt3uujz479xbe6c29hogs84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=cc6300&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ### Skills
 
 
