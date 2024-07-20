@@ -6,11 +6,11 @@ Web Developer | Script Developer | Game Hosting Technician
 
 ### About Me
 
-* <a href="https://hostyard.eu/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1140680431184904242/1141109027695235153/favicon.png" width="20" height="20" alt="Hostyard" /></a> Technical Support on [HostYard.eu](https://hostyard.eu/) | Game Hosting
+* <a href="https://hostyard.eu/" target="_blank" rel="noreferrer"><img src="https://hostyard.eu/templates/hostx/images/hostyard_reklama2.png" width="20" height="20" alt="Hostyard" /></a> Technical Support on [HostYard.eu](https://hostyard.eu/) | Game Hosting
 * 🌍  Country: Poland
 * 🌇  City: Krosno
 * 🎑  Name: Adam
-* 🖥️  Portfolio: [korpens.kezrp.pl](https://korpens.kezrp.pl/portfolio)
+* 🖥️  Portfolio: [kezhost.pl](https://kezhost.pl)
 * ✉️  Contact: [korpens.yt@gmail.com](mailto:korpens.yt@gmail.com)
 * 📞  Discord: korpens
 * 🎶  I love listening to music
@@ -25,7 +25,7 @@ Web Developer | Script Developer | Game Hosting Technician
 
 ### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38tt3uujz479xbe6c29hogs84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=cc6300&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=38tt3uujz479xbe6c29hogs84&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=b26115)](https://github.com/kittinan/spotify-github-profile)
 
 ### Skills
 
