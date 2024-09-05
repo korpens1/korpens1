@@ -25,7 +25,7 @@ Web Developer | Script Developer | Game Hosting Technician
 
 ### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=38tt3uujz479xbe6c29hogs84&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=b26115)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=38tt3uujz479xbe6c29hogs84&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=38tt3uujz479xbe6c29hogs84&redirect=true)
 
 ### Skills
 
